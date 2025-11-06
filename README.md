@@ -5,5 +5,7 @@ A simple and responsive weather app built with HTML, CSS, and JavaScript. It fet
 
 
 
-![image alt]([https://github.com/VishalBhagat185/Netflix_Clone_By_VishalBhagat/blob/43034584064027bcf3f8be34cc22f63766697a2e/Screenshot%202025-10-06%20090949.png](https://github.com/VishalBhagat185/Weather_App/blob/f89c09e64708fd31500c7a2d8d7e35ade05788da/Screenshot%202025-11-06%20204551.png))
+![image alt](https://github.com/VishalBhagat185/Weather_App/blob/298510d6643eac7e479d128c40a930ed4ab6e52c/Screenshot%202025-11-06%20204551.png
+)
+
 
