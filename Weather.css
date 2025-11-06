@@ -7,7 +7,6 @@
 body{
     background-color: black;
 }
-
 .card{
   width: 90%;
   max-width: 470px;
@@ -23,6 +22,7 @@ body{
      display: flex;
      justify-content:space-between;
      align-items: center;
+     gap: 0.4rem;
 }
 .search input{
     border: 0;
